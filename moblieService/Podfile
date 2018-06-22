@@ -1,0 +1,25 @@
+platform :ios, '9.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target :'moblieService' do
+
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod 'Toast'
+pod 'MJExtension'
+pod 'MBProgressHUD'
+pod 'AFNetworking'
+pod 'UMengUShare/UI'
+pod 'UMengUShare/Social/WeChat'
+pod 'UMengUShare/Social/QQ'
+pod 'UMengAnalytics-NO-IDFA'
+pod 'RESideMenu'
+pod 'MJRefresh'
+pod 'SAMKeychain'
+pod 'SDWebImage' 
+pod 'SDWebImage/GIF'
+pod 'ReactiveObjC'
+
+end
+

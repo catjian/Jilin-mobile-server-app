@@ -1,0 +1,103 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FLAnimatedImage (1.0.12)
+  - IQKeyboardManager (6.0.3)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.15.3)
+  - ReactiveObjC (3.1.0)
+  - RESideMenu (4.0.7)
+  - SAMKeychain (1.5.3)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SDWebImage/GIF (4.3.3):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - Toast (4.0.0)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+  - UMengUShare/Core (6.4.8.2):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.8.2)
+  - UMengUShare/Social/QQ (6.4.8.2):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedQQ (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/WeChat (6.4.8.2):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/UI (6.4.8.2):
+    - UMengUShare/Core
+
+DEPENDENCIES:
+  - AFNetworking
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - ReactiveObjC
+  - RESideMenu
+  - SAMKeychain
+  - SDWebImage
+  - SDWebImage/GIF
+  - Toast
+  - UMengAnalytics-NO-IDFA
+  - UMengUShare/Social/QQ
+  - UMengUShare/Social/WeChat
+  - UMengUShare/UI
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - FLAnimatedImage
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+    - RESideMenu
+    - SAMKeychain
+    - SDWebImage
+    - Toast
+    - UMengAnalytics-NO-IDFA
+    - UMengUShare
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  IQKeyboardManager: c390e612f4b98c8fd748016470138537dc163ead
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+  UMengUShare: 370d180101e13ee0227ae657ab119ba97243d2b3
+
+PODFILE CHECKSUM: 2fd48648e7950462507903c87595f241144f6597
+
+COCOAPODS: 1.5.3
